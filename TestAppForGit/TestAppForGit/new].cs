@@ -8,5 +8,6 @@ namespace TestAppForGit
 {
     class new_
     {
+
     }
 }
