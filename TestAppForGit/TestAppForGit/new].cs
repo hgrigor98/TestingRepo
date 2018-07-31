@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace TestAppForGit
 {
-    class Class1
+    class new_
     {
-        //HELLOO
     }
 }
